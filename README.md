@@ -1,4 +1,4 @@
-# pr1-hhtp-protocol
+# pr1-protocol-research
 
 Виконав студент КН-41 Феделеш Андрій
 
